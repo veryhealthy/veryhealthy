@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**veryhealthy/veryhealthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am very healthy, I like hiking, reading, gym, yeah very healthy stuff 🥦
 
-Here are some ideas to get you started:
+I am generally comfortable with all kinds of typescript web related projects, using modern tech stack like Next.js / SvelteKit / postgreSQL + drizzle and Redis for caching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun projects
+- [Mysterious project](https://xptdr.lol)
+- [1RM calculator with a nice design](https://muscu.xptdr.lol)
+
+### Serious projects
+... There will be something here I swear
+
+Contact me
