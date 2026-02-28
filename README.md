@@ -6,6 +6,7 @@ I am generally comfortable with all kinds of typescript web related projects, us
 ### Fun projects
 - [Mysterious project](https://xptdr.lol)
 - [1RM calculator with a nice design](https://muscu.xptdr.lol)
+- - [Multistream](https://stream.xptdr.lol)
 
 ### Serious projects
 ... There will be something here I swear
