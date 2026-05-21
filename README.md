@@ -8,7 +8,7 @@ I am generally comfortable with all kinds of typescript web related projects, us
 - [1RM calculator with a nice design](https://muscu.xptdr.lol)
 - [Multistream](https://stream.xptdr.lol)
 
-### Serious projects
-... There will be something here I swear
+### Somewhat serious projects
+- [Ecommerce t-shirt shop, only french for now](https://machineable.cc)
 
 Contact me
